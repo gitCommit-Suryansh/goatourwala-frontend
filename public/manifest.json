@@ -1,0 +1,38 @@
+{
+  "short_name": "GoaTourWala",
+  "name": "Goa Tour Wala - Explore Goa's Best Tours & Adventures",
+  "description": "Goa Tour Wala offers adventure cruises, sunset cruises, yacht rentals, North & South Goa sightseeing, dolphin tours, scuba diving, bungee jumping, Dudhsagar waterfall trips, honeymoon & family packages, and more. Book your Goa adventure now!",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a367e",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["travel", "tourism", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "assets/images/seo/default.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ]
+}
